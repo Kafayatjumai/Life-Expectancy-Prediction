@@ -1,3 +1,5 @@
+![This is an image](https://www.upstate.edu/whatsup/images/2021/051721-life-expectancy-has-dropped-why-it-matters.jpg)
+
 # OHT Ibadan BOOTCAMP CAPSTONE PROJECT
 
 ## Life Expectancy Prediction
